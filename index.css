@@ -7,17 +7,13 @@ body {
    
 }
 
-.container {
-    display: flex
-}
 
 #btn {
-    font-size: 10px;
     margin-bottom: 5px;
     margin-left: 10px;
     background: hotpink;
     color: white;
-    font-size: 20;
+    font-size: 22;
     font-style: italic;
     border: dotted white
     
@@ -75,6 +71,7 @@ p {
 input {
     padding: 5px;
     height: 100px;
+    width: 300px;
     margin: 10px;
     font-size: 22px;
     color: lightseagreen;
