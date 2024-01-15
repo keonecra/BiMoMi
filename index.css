@@ -47,6 +47,10 @@ h1 {
     padding: 10px 10px;
     margin: 10px 10px;
     font-size: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 10px;
     
 }
 .container {
@@ -74,7 +78,7 @@ p {
 input {
     padding: 5px;
     height: 100px;
-    width: 300px;
+    width: 500px;
     margin: 10px;
     font-size: 22px;
     color: lightseagreen;
