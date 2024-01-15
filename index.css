@@ -47,10 +47,10 @@ h1 {
     padding: 10px 10px;
     margin: 10px 10px;
     font-size: 20px;
-    border-top-left-radius: 10px;
+    border-top-left-radius: 30px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 10px;
+    border-bottom-right-radius: 30px;
     
 }
 .container {
@@ -78,9 +78,13 @@ p {
 input {
     padding: 5px;
     height: 100px;
-    width: 500px;
+    width: 600px;
     margin: 10px;
     font-size: 22px;
     color: lightseagreen;
     border: dotted hotpink;
+}
+
+#output {
+    font-size: 55;
 }
