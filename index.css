@@ -63,7 +63,7 @@ p {
     border: solid black;
     padding: 10px;
     margin: 10px;
-    font-size: 22px;
+    font-size: 52px;
     
 }
 
@@ -78,7 +78,7 @@ p {
 input {
     padding: 5px;
     height: 100px;
-    width: 600px;
+    width: 700px;
     margin: 10px;
     font-size: 22px;
     color: lightseagreen;
