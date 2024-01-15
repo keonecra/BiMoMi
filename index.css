@@ -1,0 +1,89 @@
+html, body {
+    background: lightyellow;
+    color: hotpink;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+   
+}
+
+.container {
+    display: flex
+}
+
+#btn {
+    font-size: 10px;
+    margin-bottom: 10px;
+    background: hotpink;
+    color: white;
+    font-style: italic;
+    border: dotted white
+    
+}
+
+h1 {
+    margin: 20px;
+    border: dotted
+}
+
+#bmm {
+    font-style: italic;
+    
+}
+
+#box {
+    background: lightseagreen;
+    color: lightyellow;
+    padding: 10px;
+    width: 100px;
+    height: 50;
+    margin: 10px 10px;
+    font-size: 6px;
+    
+}
+
+#box2 {
+    cursor: pointer;
+    background: lightseagreen;
+    border: dotted 5px white;
+    color: lightyellow;
+    padding: 10px 10px;
+    width: 100px;
+    height: 50px;
+    margin: 10px 10px;
+    font-size: 10px;
+    
+}
+
+p {
+    background: white;
+    color: hotpink;
+    border: solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    font-size: 12px;
+    
+}
+
+#para {
+    border: none;
+    padding: 0;
+    width: 200px;
+    background: lightyellow;
+    font-size: 6px;
+    
+}
+
+input {
+    padding: 5px;
+    box-sizing: border-box;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+    font-size: 8px;
+    color: lightseagreen;
+    border: dotted hotpink;
+}
