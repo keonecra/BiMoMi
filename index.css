@@ -17,6 +17,7 @@ body {
     margin-left: 10px;
     background: hotpink;
     color: white;
+    font-size: 20;
     font-style: italic;
     border: dotted white
     
@@ -66,7 +67,6 @@ p {
 #para {
     border: none;
     padding: 0;
-    width: 200px;
     background: lightyellow;
     font-size: 22px;
     
@@ -74,7 +74,7 @@ p {
 
 input {
     padding: 5px;
-    width: 200px;
+    height: 100px;
     margin: 10px;
     font-size: 22px;
     color: lightseagreen;
