@@ -1,4 +1,5 @@
-let phrases = [
+
+    let phrases = [
     "What's one difference between you and someone you love that you enjoy?",
     "Is there a part of you that you'd like for other people to understand more?",
     "What's one thing you wished other people asked you more about?",
